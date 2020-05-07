@@ -2,6 +2,9 @@
 
   - Add support for configuring the lmdb map size (#646, #647)
   - Add exposed port for Dockerfile (#654)
+  - Fix url trailing slash and double slash issues (#659)
+  - Fix accept all Content-Type by default (#653)
+  - Fix returned message on deserialization error
 
 ## v0.10.1
 
